@@ -1,4 +1,4 @@
 # Hello-world
-This is my first repository.
+This is my first repository. What is changing?
 I am looking forward to learn more.
-New comments.
+New comments. What is new?
